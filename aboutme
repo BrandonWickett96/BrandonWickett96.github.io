@@ -1,0 +1,19 @@
+<html>
+    <header>
+        <title>Brandon Wickett - About Me</title>
+        <link rel="stylesheet" href="myStyles.css">
+
+    </header>
+
+    <body>
+        <div id="navbar">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutme.html">About Me</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+        <h1>About Me</h1>
+        <p>This is the About Me section!</p>
+    </body>
