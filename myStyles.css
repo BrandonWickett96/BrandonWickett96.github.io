@@ -1,9 +1,15 @@
+
+body {
+    background-color:#738fa7;
+    }
+    
 ul {
+    border-radius: 10px;
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #0c4160;
     }
 
 li {
@@ -12,12 +18,12 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: #c3ceda;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     }
 
 li a:hover {
-    background-color: #111;
+    background-color: #071330;
     }
